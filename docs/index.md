@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Univwallet Pages
 
 You can use the [editor on GitHub](https://github.com/Universal-Blockchain-System/Univwallet/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
